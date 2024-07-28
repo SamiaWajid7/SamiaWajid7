@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samiawajid7&label=Profile%20views&color=0e75b6&style=flat" alt="samiawajid7" /> </p>
 
-- 🔭 I’m currently working on **mastering the C programming language.**
+- 🔭 I am a second-year student pursuing a **Bachelor's degree in Information Technology.**
 
-- 🌱 I’m currently learning **programming fundamentals, with a focus on C language**
+- 🌱 I’m currently focusing on **Object-Oriented Programming in C++ and exploring advanced web development techniques and frameworks**.
 
-- 💬 Ask me about **my journey into programming, my experience with HTML/CSS, or anything related to learning and programming.**
+- 💬 Ask me about **my journey into programming, my experience with web development, or anything related to learning and programming.**
 
 - 📫 How to reach me **samiawajid87@gmail.com**
 
