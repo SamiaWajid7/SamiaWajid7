@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **samiawajid87@gmail.com**
 
-- ⚡ Fun fact **I enjoy exploring new programming concepts and solving coding challenges.**
+- ⚡ Fun fact **Error 404: Fun Not Found.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
